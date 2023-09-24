@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "biat_bot",
+    "slug": "biat_bot",
+    "extra": {
+      "eas": {
+        "projectId": "a134bf15-edc7-4994-bd4d-0580c6599a32"
+      }
+    },
+    "android": {
+      "package": "com.wanderer_123.biat_bot"
+    }
+  }
+}
